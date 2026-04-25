@@ -1,0 +1,36 @@
+{
+  "name": "ChatFlow",
+  "short_name": "ChatFlow",
+  "description": "Real-time chat — fast, simple, private",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111B21",
+  "theme_color": "#00A884",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["social", "communication"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='48' fill='%2300A884'/%3E%3Cpath fill='white' d='M96 40C65.1 40 40 65.1 40 96c0 10.5 2.9 20.4 7.9 28.8L40 152l27.8-7.8C75.9 149.2 85.7 152 96 152c30.9 0 56-25.1 56-56S126.9 40 96 40zm28 76H68a4 4 0 010-8h56a4 4 0 010 8zm0-16H68a4 4 0 010-8h56a4 4 0 010 8zm0-16H68a4 4 0 010-8h56a4 4 0 010 8z'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='128' fill='%2300A884'/%3E%3Cpath fill='white' d='M256 96C167.6 96 96 167.6 96 256c0 28 7.7 54.3 21.1 76.8L96 416l84-20.8C201.4 408.6 228.2 416 256 416c88.4 0 160-71.6 160-160S344.4 96 256 96zm74.7 202.7H181.3a10.7 10.7 0 010-21.4h149.4a10.7 10.7 0 010 21.4zm0-42.7H181.3a10.7 10.7 0 010-21.4h149.4a10.7 10.7 0 010 21.4zm0-42.7H181.3a10.7 10.7 0 010-21.4h149.4a10.7 10.7 0 010 21.4z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Open Chats",
+      "short_name": "Chats",
+      "description": "Go to your chat list",
+      "url": "/chat"
+    }
+  ]
+}
